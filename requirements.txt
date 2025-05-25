@@ -1,0 +1,6 @@
+psutil
+watchdog
+flask
+openai
+graphviz
+
